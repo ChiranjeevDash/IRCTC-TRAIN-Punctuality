@@ -1,0 +1,29 @@
+============================================================
+Loaded 42 trains from dataset.
+============================================================
+
+============================================================
+ Search query: 'rajdhani'
+============================================================
+Matching trains:
+ Train_Number         Train_Name
+        12423 DBRT NDLS RAJDHANI
+        12424      DBRT RAJDHANI
+
+Using first match:
+  Train No : 12423
+  Train    : DBRT NDLS RAJDHANI
+
+------------------------------------------------------------
+   HISTORICAL DELAY SUMMARY
+------------------------------------------------------------
+Train No : 12423
+Train    : DBRT NDLS RAJDHANI
+Average delay across route :  42.91 minutes
+
+Delay probability (approx, based on history):
+  • On time / ≤15 min late :  45.58%
+  • 15–60 min late         :  26.34%
+  • >60 min late           :  19.37%
+  • Cancelled / unknown    :   8.72%
+------------------------------------------------------------
